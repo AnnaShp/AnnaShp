@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I`m Anna</h1>
 <div align="center"><img src="https://c.tenor.com/S32ema0jil0AAAAC/crying-while-typing-crying.gif" alt="плачущий программист" style="width=100px"/>
 <h3 align="center">Beginner Frontend developer from Russia, Moscow.🇺</h3>
-<p>- 🌱 I’m currently learning HTML5, CSS, SCSS </p></div>
+<p>- 🌱 I’m currently learning HTML5, CSS, SCSS, JavaScript </p></div>
 <h2>Connect with me:
 <ul>
 <li><a href="https://t.me/AnnaShpekht">Telegram</a></li>
