@@ -15,6 +15,25 @@
 <li><a href="mailto:nyutka_slutskaya@mail.ru">E-mail</a></li>
 </ul>
 
+<details>
+<p align="center">
+  <a href="https://github.com/AnnaShp">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnaShp&theme=transparent" />
+  </a>
+  <a href="https://github.com/AnnaShp">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnaShp&hide_border=true&card_width=338&theme=transparent" />
+  </a>
+  <a href="https://github.com/AnnaShp">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaShp&theme=transparent" />
+  </a>
+  <a href="https://github.com/AnnaShp">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaShp&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+  </a>
+</p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnnaShp&label=Profile%20views&color=0e75b6&style=flat" alt="kelebekkadircan" /> </p>
+</details>
+  
+ 
 
 <!--
 **AnnaShp/AnnaShp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
