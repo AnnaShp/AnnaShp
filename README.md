@@ -1,13 +1,14 @@
 ### 
 <h1 align="center">Hi there 👋, I`m Anna</h1>
 <div align="center"><img src="https://c.tenor.com/S32ema0jil0AAAAC/crying-while-typing-crying.gif" alt="плачущий программист" style="width=100px"/>
-<h3 align="center">Beginner Frontend developer from Russia, Moscow.🇺</h3>
+<h3 align="center">Frontend developer from Russia, Moscow.</h3>
 <p>- 🌱 I’m currently learning HTML5, CSS, SCSS, JavaScript </p></div>
 <div align="center">
 <img src="/icons/html5_icon.png" alt="HTML 5" width="50px"/>
 <img src="/icons/css_icon.png" alt="CSS" width="50px"/>
-<img src="/icons/scss_icon.png" alt="html 5" width="50px"/>
-<img src="/icons/javascript_icon.png" alt="html 5" width="50px"/>
+<img src="/icons/scss_icon.png" alt="SCSS" width="50px"/>
+<img src="/icons/javascript_icon.png" alt="JS" width="50px"/>
+<img src="/icons/7423887_react_react native_icon.png" alt="REACT" width="50px"/>
 </div>
 <h2>Connect with me:
 <ul>
@@ -27,9 +28,9 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaShp&theme=transparent" />
   </a>
   <a href="https://github.com/AnnaShp">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnnaShp&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AnnaShp&theme=transparent" />
   </a>
-</p>
+  </p>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=AnnaShp&label=Profile%20views&color=0e75b6&style=flat" alt="AnnaShp" /> </p>
 </details>
   
