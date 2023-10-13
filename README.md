@@ -21,9 +21,9 @@
   <a href="https://github.com/AnnaShp">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AnnaShp&theme=transparent" />
   </a>
-  <a href="https://github.com/AnnaShp">
+<!--   <a href="https://github.com/AnnaShp">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnnaShp&hide_border=true&card_width=338&theme=transparent" />
-  </a>
+  </a> -->
   <a href="https://github.com/AnnaShp">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=AnnaShp&theme=transparent" />
   </a>
