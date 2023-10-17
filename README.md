@@ -2,15 +2,21 @@
 <h1 align="center">Hi there 👋, I`m Anna</h1>
 <div align="center"><img src="https://c.tenor.com/S32ema0jil0AAAAC/crying-while-typing-crying.gif" alt="плачущий программист" style="width=100px"/>
 <h3 align="center">Frontend developer from Russia, Moscow.</h3>
-<p>- 🌱 I’m currently learning HTML5, CSS, SCSS, JavaScript, React </p></div>
+  
+---
+
+ ### Technologies:
 <div align="center">
 <img src="/icons/html5_icon.png" alt="HTML 5" width="50px"/>
-<img src="/icons/css_icon.png" alt="CSS" width="50px"/>
+<img src="/icons/css.png" alt="CSS" width="50px"/>
 <img src="/icons/scss_icon.png" alt="SCSS" width="50px"/>
+<img src="/icons/git.png" alt="git" width="50px"/>
+<img src="/icons/figma.png" alt="figma" width="50px"/>
 <img src="/icons/javascript_icon.png" alt="JS" width="50px"/>
-<img src="/icons/7423887_react_react native_icon.png" alt="REACT" width="50px"/>
+<img src="/icons/7423887_react_react native_icon.png" alt="react" width="50px"/>
 </div>
-<h2>Connect with me:
+
+### <h2>Connect with me:
 <ul>
 <li><a href="https://t.me/AnnaShpekht">Telegram</a></li>
 <li><a href="mailto:nyutka_slutskaya@mail.ru">E-mail</a></li>
